@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 10, 2015, 9:11:02 PM
+    Author     : Nidhi
+*/
+
+ul{
+    list-style:none;
+    margin:0pt;
+    width:100%;
+}
+ul li{
+    
+    display:block;
+    position:relative;
+    float:left;
+    margin:0pt;
+}
+
+ul li a{
+    display:block;
+    padding:5px 10px 5px 10px;
+    color:darkslategray;
+    background-color:lavender;
+    margin:0pt;
+}
+
+
+ul li a:hover{
+    background-color:white;
+    border-top:1px solid darkgray;
+    border-left:1px solid darkgray;
+    border-right:1px solid darkgray;
+    cursor:pointer;
+}
+
+.sel{
+    display:block;
+    padding:5px 10px 5px 10px;
+    color:darkslategray;
+    background-color:white;
+    border-top:1px solid darkgray;
+    border-left:1px solid darkgray;
+    border-right:1px solid darkgray;
+    margin:0pt;
+}
+
+.button{
+    cursor:pointer;
+}
+
+.scrollable {
+    display: block; 
+    width: 100%;
+    height: 350pt;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}

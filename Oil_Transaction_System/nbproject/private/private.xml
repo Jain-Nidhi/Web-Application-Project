@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/servlets/login_logout.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>114</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nidhi/Documents/NetBeansProjects/Oil_Transaction_System/src/java/beans/Client.java</file>
+            <file>file:/C:/Users/Nidhi/Documents/NetBeansProjects/Oil_Transaction_System/src/java/dao/daoImpl.java</file>
+            <file>file:/C:/Users/Nidhi/Documents/NetBeansProjects/Oil_Transaction_System/src/java/servlets/yeargraph.java</file>
+            <file>file:/C:/Users/Nidhi/Documents/NetBeansProjects/Oil_Transaction_System/web/design/manager_dashboard.jsp</file>
+        </group>
+    </open-files>
+</project-private>
