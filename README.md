@@ -1,6 +1,8 @@
 # Web-Application-Project
 Website build on Java using Spring MVC framework. Database build on SQL server.
 
+Website name : Oil Transaction System
+
 To run the project follow these steps:
 ------------------------------------------------------
 1). Import the project on Netbeans IDE 8.1 using Oil_Transaction_System.war file.
